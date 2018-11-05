@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AccountingFirmGreeting\AccountingFirmGreeting\obj\Debug\AccountingFirmGreeting.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AccountingFirmGreeting\AccountingFirmGreeting\obj\Debug\AccountingFirmGreeting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AccountingFirmGreeting\AccountingFirmGreeting\bin\Debug\AccountingFirmGreeting.exe.config
+C:\Users\User\source\repos\AccountingFirmGreeting\AccountingFirmGreeting\bin\Debug\AccountingFirmGreeting.exe
+C:\Users\User\source\repos\AccountingFirmGreeting\AccountingFirmGreeting\bin\Debug\AccountingFirmGreeting.pdb
+C:\Users\User\source\repos\AccountingFirmGreeting\AccountingFirmGreeting\obj\Debug\AccountingFirmGreeting.exe
+C:\Users\User\source\repos\AccountingFirmGreeting\AccountingFirmGreeting\obj\Debug\AccountingFirmGreeting.pdb
