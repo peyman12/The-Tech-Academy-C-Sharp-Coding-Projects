@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\VariableAndDataTypes.exe.config
+C:\Users\User\source\repos\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\VariableAndDataTypes.exe
+C:\Users\User\source\repos\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\VariableAndDataTypes.pdb
+C:\Users\User\source\repos\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.exe
+C:\Users\User\source\repos\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.pdb
