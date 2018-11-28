@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MoreWithMethods2\MoreWithMethods2\bin\Debug\MoreWithMethods2.exe.config
+C:\Users\User\source\repos\MoreWithMethods2\MoreWithMethods2\bin\Debug\MoreWithMethods2.exe
+C:\Users\User\source\repos\MoreWithMethods2\MoreWithMethods2\bin\Debug\MoreWithMethods2.pdb
+C:\Users\User\source\repos\MoreWithMethods2\MoreWithMethods2\obj\Debug\MoreWithMethods2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MoreWithMethods2\MoreWithMethods2\obj\Debug\MoreWithMethods2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MoreWithMethods2\MoreWithMethods2\obj\Debug\MoreWithMethods2.exe
+C:\Users\User\source\repos\MoreWithMethods2\MoreWithMethods2\obj\Debug\MoreWithMethods2.pdb
