@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MoreWithMethods3\MoreWithMethods3\bin\Debug\MoreWithMethods3.exe.config
+C:\Users\User\source\repos\MoreWithMethods3\MoreWithMethods3\bin\Debug\MoreWithMethods3.exe
+C:\Users\User\source\repos\MoreWithMethods3\MoreWithMethods3\bin\Debug\MoreWithMethods3.pdb
+C:\Users\User\source\repos\MoreWithMethods3\MoreWithMethods3\obj\Debug\MoreWithMethods3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MoreWithMethods3\MoreWithMethods3\obj\Debug\MoreWithMethods3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MoreWithMethods3\MoreWithMethods3\obj\Debug\MoreWithMethods3.exe
+C:\Users\User\source\repos\MoreWithMethods3\MoreWithMethods3\obj\Debug\MoreWithMethods3.pdb
