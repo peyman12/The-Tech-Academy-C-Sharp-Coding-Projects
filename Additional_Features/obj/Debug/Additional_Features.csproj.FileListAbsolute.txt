@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Additional_Features\Additional_Features\obj\Debug\Additional_Features.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Additional_Features\Additional_Features\obj\Debug\Additional_Features.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Additional_Features\Additional_Features\bin\Debug\Additional_Features.exe.config
+C:\Users\User\source\repos\Additional_Features\Additional_Features\bin\Debug\Additional_Features.exe
+C:\Users\User\source\repos\Additional_Features\Additional_Features\bin\Debug\Additional_Features.pdb
+C:\Users\User\source\repos\Additional_Features\Additional_Features\obj\Debug\Additional_Features.exe
+C:\Users\User\source\repos\Additional_Features\Additional_Features\obj\Debug\Additional_Features.pdb
