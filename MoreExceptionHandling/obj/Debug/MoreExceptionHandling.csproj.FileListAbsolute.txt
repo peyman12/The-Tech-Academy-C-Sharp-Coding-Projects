@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MoreExceptionHandling\MoreExceptionHandling\bin\Debug\MoreExceptionHandling.exe.config
+C:\Users\User\source\repos\MoreExceptionHandling\MoreExceptionHandling\bin\Debug\MoreExceptionHandling.exe
+C:\Users\User\source\repos\MoreExceptionHandling\MoreExceptionHandling\bin\Debug\MoreExceptionHandling.pdb
+C:\Users\User\source\repos\MoreExceptionHandling\MoreExceptionHandling\obj\Debug\MoreExceptionHandling.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MoreExceptionHandling\MoreExceptionHandling\obj\Debug\MoreExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MoreExceptionHandling\MoreExceptionHandling\obj\Debug\MoreExceptionHandling.exe
+C:\Users\User\source\repos\MoreExceptionHandling\MoreExceptionHandling\obj\Debug\MoreExceptionHandling.pdb
